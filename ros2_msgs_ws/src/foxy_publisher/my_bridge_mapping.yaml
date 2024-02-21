@@ -1,0 +1,3 @@
+-
+  ros1_package_name: 'noetic_subscriber'
+  ros2_package_name: 'foxy_publisher'

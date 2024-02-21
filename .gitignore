@@ -1,0 +1,9 @@
+bridge_ws/build
+bridge_ws/install
+bridge_ws/log
+ros1_msgs_ws/devel
+ros1_msgs_ws/build
+ros1_msgs_ws/logs
+ros2_msgs_ws/build
+ros2_msgs_ws/install
+ros2_msgs_ws/log
